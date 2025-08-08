@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm currently learning full-stack development and building
 ### 💡 Tech I'm Learning:
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** ASP.NET Core, C#, Java, Python  
-- **Databases:** SQL Server, MySQL  
+- **Databases:** SQL Server, MySQL
+- **CMS & Website Builders:** WordPress 
 - **Other Languages:** C, Java (OOP Concepts), Python (Scripting & Logic)  
 - **Tools:** Visual Studio, VS Code, Git & GitHub  
 - **Currently Exploring:** APIs, full-stack development, and basic data structures
