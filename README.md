@@ -24,5 +24,5 @@ Welcome to my GitHub! I'm currently learning full-stack development and building
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/rohit-changani/)  
- 
+- [LinkedIn](https://www.linkedin.com/in/rohit-changani/)
+- 
